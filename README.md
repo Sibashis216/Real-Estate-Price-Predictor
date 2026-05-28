@@ -10,7 +10,7 @@
 
 **An end-to-end Machine Learning web application that predicts residential property prices across Bangalore using Gradient Boosting — from raw data to a live deployed REST API.**
 
-[🚀 Live Demo](https://real-estate-price-predictor-983b.onrender.com/) &nbsp;·&nbsp; [📓 ML Notebook](#) &nbsp;·&nbsp; [🐛 Report Bug](../../issues)
+[🚀 Live Demo](https://real-estate-price-predictor-983b.onrender.com/) &nbsp;&nbsp;  &nbsp;&nbsp; [🐛 Report Bug](../../issues)
 
 </div>
 
@@ -330,16 +330,11 @@ The gap between test R² (0.97) and CV R² (0.90) is a healthy reminder to never
 
 ## 👤 Author
 
-**Your Name**  
-Data Scientist  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/yourusername)
+**Sibashis Patnaik**  
+Aspiring Data Scientist 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sibashispatnaik2000)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Sibashis216?tab=repositories)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
