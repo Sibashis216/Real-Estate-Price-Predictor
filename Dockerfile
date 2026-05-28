@@ -26,7 +26,7 @@ COPY app.py .
 COPY train_model.py .
 COPY data/ ./data/
 COPY templates/ ./templates/
-COPY static/ ./static/
+# COPY static/ ./static/
 
 # Train the model at build time
 RUN python data/generate_data.py && python train_model.py
